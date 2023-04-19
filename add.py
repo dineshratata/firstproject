@@ -8,6 +8,6 @@ a=880
 
 
 
-b=100
+b=3
 
-print (a+b)
+print (a*b)
